@@ -1,1 +1,7 @@
-# Cyborg
+cyborg-landing-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── cyborg.png
